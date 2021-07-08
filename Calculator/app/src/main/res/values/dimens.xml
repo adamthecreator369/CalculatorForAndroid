@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="button_txt_size">22sp</dimen>
-    <dimen name="logo_img_padding">9dp</dimen>
-    <dimen name="title_text_size">24sp</dimen>
-    <dimen name="output_txt_size">28sp</dimen>
-    <dimen name="button_lft_margin">4dp</dimen>
-</resources>
