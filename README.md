@@ -15,7 +15,5 @@ Portrait Orientation
 Landscape Orientation
 <br>
 <img width="819" alt="Screen Shot 2021-07-08 at 9 36 31 AM" src="https://user-images.githubusercontent.com/78386606/124941221-46dcd000-dfd0-11eb-8a73-b03b12a8e378.png">
-![image](https://user-images.githubusercontent.com/78386606/124941345-578d4600-dfd0-11eb-8504-2654162987b9.png)
-
 
 
